@@ -8,5 +8,5 @@ A base de dados são 2 APIs distintas, uma para comidas (https://www.themealdb.c
 O layout tem como foco dispositivos móveis. Melhor visualização do Chrome: responsive - Iphone 6/7/8.
 
 ## Iniciar o projeto
-npm i + npm start
+No diretório do projeto, rode os comandos 'npm install' e 'npm start'.
 
