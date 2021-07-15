@@ -1,0 +1,25 @@
+.links-page {
+  display: flex;
+  flex-direction: column;
+  height: 30vh;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.email-user {
+  text-align: center;
+}
+
+.links-page button {
+  border-radius: 5px;
+  cursor: pointer;
+  width: 12rem;
+}
+
+.links-page-drinks {
+  margin-top: -1.4rem;
+}
+
+.drinks-btn {
+  margin-top: -2rem;
+}

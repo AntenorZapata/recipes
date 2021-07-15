@@ -1,0 +1,39 @@
+.btn-finish-container {
+  width: 25rem;
+  margin: auto;
+}
+
+.finish-recipe-btn {
+  border-radius: 10px;
+  bottom: 0;
+  margin-left: 7rem;
+  padding: 0.4rem 0.2rem;
+  position: fixed;
+  border: none;
+  box-shadow: 1px 4px 4px rgba(10, 10, 10, 0.5);
+}
+
+.instructions-in-progress {
+  border: 1px solid rgb(171, 190, 187);
+  box-shadow: 1px 4px 4px rgba(10, 10, 10, 0.5);
+  border-radius: 10px;
+  margin: 2rem auto 1.5rem;
+  padding: 1rem;
+  width: 21rem;
+}
+
+.instructions-in-progress h3 {
+  margin-bottom: 1rem;
+}
+
+.instructions-in-progress p {
+  font-family: Merienda;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.check-input {
+  margin-right: 0.2rem;
+}

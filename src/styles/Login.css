@@ -1,0 +1,31 @@
+.login-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.login-container form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 12rem;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.login-container input {
+  background-color: #f0f0f0;
+  border: 1px solid rgb(192, 206, 203);
+  border-radius: 3px;
+  margin-top: 0.7rem;
+  outline: 0;
+  padding: 0.2rem 0.3rem;
+  text-align: left;
+}
+
+.login-icon {
+  width: 25rem;
+  margin-top: -15rem;
+}

@@ -1,0 +1,31 @@
+.ingredients-container {
+  border: 1px solid rgb(202, 218, 215);
+  box-shadow: 1px 4px 4px rgba(10, 10, 10, 0.5);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 0.8rem;
+  margin: 0 1.4rem;
+  padding: 1rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .ingredients-container {
+    width: 21rem;
+    margin: auto;
+  }
+}
+
+.ingredient-recipe {
+  font-family: Merienda;
+  font-weight: 400;
+}
+
+.ingredients-title {
+  margin-bottom: 1.5rem;
+}
+
+.ingredients-check label {
+  font-family: Merienda;
+}

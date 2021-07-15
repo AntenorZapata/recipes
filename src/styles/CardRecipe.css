@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&display=swap');
+
+.recipe-container,
+.explore-by-area {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto;
+  width: 90%;
+}
+
+@media screen and (min-width: 1024px) {
+  .recipe-container {
+    width: 65%;
+    margin: auto;
+  }
+}
+
+.recipe-container img,
+.explore-by-area img {
+  width: 9.5rem;
+  object-fit: cover;
+}
+
+.recipe-card {
+  border-radius: 6px;
+  box-shadow: 1px 4px 4px rgba(8, 8, 8, 0.25);
+  display: flex;
+  flex-direction: column;
+  height: 180px;
+  margin: 0.3rem 0.3rem 1rem;
+  overflow: hidden;
+  text-align: center;
+  width: 150px;
+  transition: 0.2s;
+}
+
+@media screen and (min-width: 1024px) {
+  .recipe-card {
+    margin: 1rem;
+  }
+}
+
+.recipe-card:hover {
+  transform: translateY(2px);
+}
+
+.recipe-card:hover p {
+  color: rgb(9, 114, 9);
+  transition: 0.3s;
+}
+
+.recipe-card:active {
+  transform: translateY(2px);
+}
+
+.recipe-name {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 15px;
+  justify-content: center;
+  margin: 0.2rem auto -0.3rem;
+  width: 8rem;
+}
+
+.recipe-name p {
+  color: black;
+  font-family: Merienda, cursive;
+  font-size: 15px;
+}
+
+.card-link {
+  text-decoration: none;
+}

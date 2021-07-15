@@ -1,0 +1,45 @@
+.text-input input {
+  background-color: #f0f0f0;
+  border: 1px solid rgb(192, 206, 203);
+  border-radius: 3px;
+  margin-left: 1.7rem;
+  outline: 0;
+  padding: 0.2rem 0.3rem;
+  text-align: left;
+  width: 85%;
+}
+
+.radio-inputs {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem auto;
+  text-align: center;
+  width: 85%;
+}
+
+.radio-inputs label {
+  font-family: Merienda;
+  font-weight: 600;
+}
+
+.radio-inputs input {
+  margin-right: 0.3rem;
+}
+
+.button-search-food {
+  margin: -0.7rem 1.8rem 1rem;
+}
+
+.button-search-food button {
+  background-color: rgb(77, 74, 74);
+  border: none;
+  color: #eee;
+  padding: 0.2rem 0.8rem;
+}
+
+::-webkit-input-placeholder {
+  /* Edge */
+  color: rgb(168, 165, 165);
+  font-family: Arial;
+}
