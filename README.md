@@ -1,5 +1,5 @@
 
-# Recipes App React: Hooks e Context API!
+# Recipes App  - React: Hooks e Context API!
 
 Nele é possível: buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
 
