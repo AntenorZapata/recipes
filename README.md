@@ -22,16 +22,17 @@ Utilizamos React (Hooks, Context API, componentização) e Bootstrap para o esti
 
 ## Como executar
 
-####  Clone o repositório
-$ git clone git@github.com:AntenorZapata/recipes.git
+    Clone o repositório
+    $ git clone git@github.com:AntenorZapata/recipes.git
 
-#### Entre na pasta  
-$ cd recipes
+    Entre na pasta  
+    $ cd recipes
 
-#### Instale as dependências
-$ npm i
+    Instale as dependências
+    $ npm i
 
-#### Inicie o servidor
-$ npm start
-Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
+    Inicie o servidor
+    $ npm start
+   
+    Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
 
