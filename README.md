@@ -16,7 +16,7 @@
 <a href="https://agitated-bell-17c42f.netlify.app/">Demo</a>
 </h3>
 
-# Sobre
+# [Sobre](#Sobre)
 Esse projeto foi feito em grupo. Nele é possível buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
 A base de dados são 2 APIs distintas, uma para [comidas](https://www.themealdb.com/) e outra para [bebidas](https://www.thecocktaildb.com/api.php).
 Para a organização das atividades, utilizamos um quadro Kanban com as demandas a serem realizadas pelo grupo.
