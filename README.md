@@ -22,8 +22,7 @@ A base de dados são 2 APIs distintas, uma para [comidas](https://www.themealdb.
 Para a organização das atividades, utilizamos um quadro Kanban com as demandas a serem realizadas pelo grupo.
 O layout tem como foco dispositivos móveis. 
 
-<h3>
-  <a href="tecnologias"></a>
+<h3 id="tecnologias">
   Tecnologias
 </h3>
 Utilizamos React (Hooks, Context API, componentização) e Bootstrap para o estilo de alguns elementos. 
