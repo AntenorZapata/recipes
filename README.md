@@ -6,7 +6,6 @@ Gif do projeto
 
 Clique aqui para ver a versão Demo
 
-#Sobre
 Para a realização do projeto, foram implementados os componentes Banner e Testimonials, a partir do Figma.
 
 stopwatch Como executar
@@ -37,4 +36,4 @@ TypeScript
 memo Licença
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Desenvolvido com purple_heart por Polyane Tuag
+# Sobre
