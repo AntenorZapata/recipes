@@ -26,7 +26,7 @@ Utilizamos React (Hooks, Context API, componentização) e Bootstrap para o esti
     $ git clone git@github.com:AntenorZapata/recipes.git
 
     Entre na pasta  
-    $ cd recipes
+    $ cd recipes-master
 
     Instale as dependências
     $ npm i
