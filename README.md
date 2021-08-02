@@ -3,8 +3,8 @@
 
 <h3 align="center">     
   <a href="#Sobre">Sobre</a>  |
-    <a href="#tecnologias">Tecnologias</a>     |
-  <a href="#como-executar">Como Executar</a>   
+    <a href="#Tecnologias">Tecnologias</a>     |
+  <a href="#Como-executar">Como Executar</a>   
 </h3>
 
 
