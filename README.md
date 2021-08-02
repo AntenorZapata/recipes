@@ -2,9 +2,9 @@
 ## Recipes App  - React (Hooks e Context API) / CSS / Bootstrap / Kanban - Metodologias Ágeis
 
 <p align="center">     
-  
-  
-[Sobre](#sobre)  |  [Como Executar](#como-executar)  |   [Tecnologias](#tecnologias)       
+  <a href="#sobre">Sobre</a> 
+  <a href="#como-executar">Como Executar</a> 
+  <a href="#tecnologias">Tecnologias</a>   
 </p>
 
 
