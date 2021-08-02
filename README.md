@@ -3,7 +3,7 @@
 
 <h3 align="center">     
   <a href="#Sobre">Sobre</a>  |
-    <a href="#Tecnologias">Tecnologias</a>     |
+    <a href="#tcnologias">Tecnologias</a>     |
   <a href="#Como-executar">Como Executar</a>   
 </h3>
 
@@ -22,7 +22,10 @@ A base de dados são 2 APIs distintas, uma para [comidas](https://www.themealdb.
 Para a organização das atividades, utilizamos um quadro Kanban com as demandas a serem realizadas pelo grupo.
 O layout tem como foco dispositivos móveis. 
 
-## [Tecnologias](#Tecnologias)
+<h3>
+  <a href="tecnologias"></a>
+  Tecnologias
+</h3>
 Utilizamos React (Hooks, Context API, componentização) e Bootstrap para o estilo de alguns elementos. 
 
 ## [Como executar](#Como-executar)
