@@ -1,39 +1,38 @@
+                            
+<h1 align="center">Recipes App </h1>
 
-Desafio proposto para vaga de Front-End
-[Sobre](#sobre)   |    Como Executar   |    Tecnologias   |    Licença
+<p align="center">     
+<img src="https://github.com/AntenorZapata/recipes/blob/master/src/images/recipes-app.gif?raw=true" width="400" height="600"/>
+</p>
+  
+<h3 align="center"> 
+<a href="https://agitated-bell-17c42f.netlify.app/">Demo</a>
+</h3>
 
-Gif do projeto
+## :speech_balloon: Sobre
+Esse projeto foi feito em grupo. Nele é possível buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
+A base de dados são 2 APIs distintas, uma para [comidas](https://www.themealdb.com/) e outra para [bebidas](https://www.thecocktaildb.com/api.php).
+Para a organização das atividades, utilizamos um quadro Kanban com as demandas a serem realizadas pelo grupo.
+O layout tem como foco dispositivos móveis. 
 
-Clique aqui para ver a versão Demo
 
-Para a realização do projeto, foram implementados os componentes Banner e Testimonials, a partir do Figma.
+## :computer: Tecnologias
 
-stopwatch Como executar
-Primeiro, execute o servidor de desenvolvimento:
+Utilizamos React (Hooks, Context API, componentização) e Bootstrap para o estilo de alguns elementos. 
 
-# Clonar o repositório
-$ git clone https://github.com/polyanetuag/desafio-zapt.git
+## :clapper: Como executar
 
-# Entrar na pasta  
-$ cd desafio-zapt
+    Clone o repositório
+    $ git clone git@github.com:AntenorZapata/recipes.git
 
-# Instalar as dependências
-$ yarn 
+    Entre na pasta  
+    $ cd recipes-master
 
-# Iniciar o servidor
-$ yarn dev
-Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
+    Instale as dependências
+    $ npm i
 
-Você pode começar a editar a página modificando templates/Home/index.tsx. A medida que você edita o arquivo, a página é atualizada automaticamente.
+    Inicie o servidor
+    $ npm start
+   
+    Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
 
-rocket Tecnologias
-NextJs
-Polished
-Prettier
-Styled Components
-Styled Media Query
-TypeScript
-memo Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-# Sobre
